@@ -26,15 +26,8 @@ $ git push --set-upstream origin master
 
 파이썬 
 
-https://www.11st.co.kr/products/1770674870?utm_medium=%EA%B2%80%EC%83%89&gclid=CjwKCAjwlrqHBhByEiwAnLmYUCZgEwWuoSkzr4-RmFb6apG494-yT0_g4zqT6uHbpYfrbGnBtc2sIxoCHSIQAvD_BwE&utm_source=%EA%B5%AC%EA%B8%80_PC_S_%EC%87%BC%ED%95%91&utm_campaign=%EA%B5%AC%EA%B8%80%EC%87%BC%ED%95%91PC+%EC%B6%94%EA%B0%80%EC%9E%91%EC%97%85&utm_term=
-
-저는 개인적으로 g3 오디세이 좋은거 같습니다
-
+g3 오디세이
 삼성전자 갤럭시북 이온2
-
-삼성 모니터 추천도 해주시나요..?ㅋㅋ
-
-싸피할 때 최소 사양은 어느 정도인지 여쭤봐도 될까요...
 32인치 모니터?;
 cpu 10세대 i7 
 ram 16기가 ..? 32기가
