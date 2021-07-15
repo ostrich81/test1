@@ -1,0 +1,19 @@
+1. 처음할 때 
+$ git config --global user.email"djr53rt@gmail.com"
+$ git config --global user.name"djr53rt"
+$ git init
+$ git add .
+$ git commit -m "new"
+새로 깃허브에서 만들고 코드 복사 
+$ git remote add origin https://github.com/ostrich81/test1.git
+$ git push --set-upstream origin master
+$ git push
+
+2. 나중할때 
+$ git add .
+$ git commit -m"new"
+$ git push
+
+3. 받을때 
+$ git clone https://github.com/ostrich81/test1.git(코드복사) . (. 이 중요) 아니면 위치바뀜 
+$ git init
