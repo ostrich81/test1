@@ -1,0 +1,23 @@
+git 
+정보처리기사 
+GUI / CLI 차이 
+cli - command line interface 
+서버 - 
+
+git 명령어 
+touch 
+clear 
+date 
+mkdir 
+절대경로- 다적는거 
+상대경로- 생략 
+~ 틸드 
+cd 부모자식 디렉토리 
+cd .. - 부모 
+. 자기자신 
+git - cli - 명령어 / 경로- 절대 / 상대 
+add commit push (stash -안배움 )
+vi 로 들어가면 편집가능 
+일반모드- esc
+편집  i 
+명령- :wq

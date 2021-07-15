@@ -1,0 +1,92 @@
+git add . 
+git commit -m "" 
+git status 
+git log 
+git checkout 코밋 뒤에 4자리 
+git checkout master 
+git reflog
+git remote -v 
+git remote remove origin - 기존 레포지토리 삭제 
+git push
+$ git push --set-upstream origin master - 로그인창 
+git clone 뒤에 코드 복붙  ( 다른 컴이나 폴더로 자기꺼 옮기는거 ) 
+처음에는 clone 으로 복사 그다음부터는 pull 쓰면됨 
+cd ..
+git 은 기본적으로 파일만 관리 
+사진찍기 - 그대로 저장되는 것이 아님 
+추적하기때문에 추적할 대상이 없으면 폴더는 추적하지 않음 파일이 있어야함 
+빈 폴더라서 안옮겨짐  
+
+마크다운 배운거로 1일차 2일차 3일차 
+개념 정리 시간 
+$ git push --set-upstream origin master
+
+.png 로 바꿔주는것도 필요 - 마크다운 
+
+
+파이썬 
+
+https://www.11st.co.kr/products/1770674870?utm_medium=%EA%B2%80%EC%83%89&gclid=CjwKCAjwlrqHBhByEiwAnLmYUCZgEwWuoSkzr4-RmFb6apG494-yT0_g4zqT6uHbpYfrbGnBtc2sIxoCHSIQAvD_BwE&utm_source=%EA%B5%AC%EA%B8%80_PC_S_%EC%87%BC%ED%95%91&utm_campaign=%EA%B5%AC%EA%B8%80%EC%87%BC%ED%95%91PC+%EC%B6%94%EA%B0%80%EC%9E%91%EC%97%85&utm_term=
+
+저는 개인적으로 g3 오디세이 좋은거 같습니다
+
+삼성전자 갤럭시북 이온2
+
+삼성 모니터 추천도 해주시나요..?ㅋㅋ
+
+싸피할 때 최소 사양은 어느 정도인지 여쭤봐도 될까요...
+32인치 모니터?;
+cpu 10세대 i7 
+ram 16기가 ..? 32기가
+11세대
+
+상자의 이름을 url - 변수 상자안에 데이터를 지정 
+요청 해서 response 라는 상자에 넣음 요청 보내고 받은 것을 상자에 넣고 
+데이터를 받아온것을 가공함 데이터라는 변수 지정 
+가공한 데이터 중에 코스피 나우라는 것을 골라서 
+눈에 보이는 문자로 바뀌고 
+결과물 출력 
+
+json -문서형식 자바든 파이선이던 아는 문서형태 
+
+
+
+웹페이지 크롤링 
+팀 버너스리
+
+qurey -  요구사항 
+앞에가 주문 
+
+1. 요청하는 법 
+
+$ pip install requests
+$ pip install beautifulsoup4
+
+컨트롤 쉬프트 시 - 링크 복사 
+
+pip install lxml  하고 
+html.parser 대신 lxml 사용 가능 
+
+
+총정리 
+깃 자주하는 실수모음 
+깃속에 깃 넣는것 
+til 폴더안에 git만들고 파이선만들고 또 그안에 git 만드는거 - 오류 ! 
+경로 공백처리 
+한글, 공백 , 특수문자 - 오류 시발점 
+영어와 소문자 추천 
+깃 .git  
+ls -al 햇을때 .git 이 보인다 /확인!//git status 하고 그다음에 명령어 치기 
+.git 을 옮기면 안됨 
+커밋이 없는경우 푸쉬를 할수가 없음 push 
+reset 은 아직 안배움 
+til 폴더이름은 상관없지만 .git 의 상위 폴더 깃은 그 안의 부분만 트래킹을 함 
+원격 저장소 의 이름 과 로컬폴더이름은 같을 필요가 없음 
+.git 폴더를 통해서 버전관리 등을 주고 받기 때문에 상관없음 
+깃 피디에프 확인하고 크롤링 이런거 있다고 확인만 하면됨 
+깃은 필수임 
+내일은 깃 협업 // 리셋/ 및 타기능 학습 예정 
+
+
+
+
