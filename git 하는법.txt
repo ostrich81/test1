@@ -17,3 +17,6 @@ $ git push
 3. 받을때 
 $ git clone https://github.com/ostrich81/test1.git(코드복사) . (. 이 중요) 아니면 위치바뀜 
 $ git init
+
+
+메모장의 내용만 바뀌는지 실험 
